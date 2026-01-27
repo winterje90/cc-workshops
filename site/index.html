@@ -442,6 +442,102 @@ nav .container {
   opacity: 0.6;
 }
 
+/* ── Speakers ── */
+.speakers {
+  padding: 120px 0;
+}
+
+.speakers-header {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 80px;
+  margin-bottom: 56px;
+}
+
+.speakers-header h2 {
+  font-family: var(--font-display);
+  font-size: clamp(30px, 3vw, 40px);
+  color: var(--white);
+  line-height: 1.25;
+}
+
+.speakers-header p {
+  color: var(--muted);
+  font-size: 16px;
+  max-width: 500px;
+  padding-top: 8px;
+}
+
+.speakers-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+
+.speaker-card {
+  background: var(--navy-light);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 16px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.7s, transform 0.7s;
+}
+
+.speaker-card.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.speaker-top {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.speaker-photo {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid rgba(255,255,255,0.2);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.25);
+}
+
+.speaker-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--white);
+}
+
+.speaker-role {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-top: 4px;
+}
+
+.speaker-bio {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.speaker-link {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.speaker-link:hover {
+  color: var(--white);
+}
+
 /* ── Compounding ── */
 .compounding {
   padding: 120px 0;
@@ -562,6 +658,7 @@ footer .container {
   .overview-inner,
   .workshops-header,
   .workshop-card,
+  .speakers-header,
   .compounding-inner,
   .reg-inner {
     grid-template-columns: 1fr;
@@ -583,6 +680,10 @@ footer .container {
     gap: 20px;
   }
 
+  .speakers-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .hero {
     padding: 120px 0 80px;
   }
@@ -602,6 +703,15 @@ footer .container {
   .overview-stats {
     grid-template-columns: 1fr;
     gap: 16px;
+  }
+
+  .speakers-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .speaker-photo {
+    width: 64px;
+    height: 64px;
   }
 
   .nav-cta { display: none; }
@@ -742,6 +852,55 @@ footer .container {
           <li>Generate enriched prospect lists with targeted criteria</li>
           <li>Create a LinkedIn capacity strategy and outreach playbook</li>
         </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Speakers -->
+<div class="section-divider"></div>
+<section class="speakers" id="speakers">
+  <div class="container">
+    <div class="speakers-header">
+      <div class="section-label">Speakers</div>
+      <div>
+        <h2>Meet the instructors</h2>
+        <p>Three operators sharing the playbooks they use to build GTM systems.</p>
+      </div>
+    </div>
+    <div class="speakers-grid">
+      <div class="speaker-card" data-animate>
+        <div class="speaker-top">
+          <img class="speaker-photo" src="../headshots/joerhewheadshot.jpg" alt="Joe Rhew">
+          <div>
+            <div class="speaker-name">Joe Rhew</div>
+            <div class="speaker-role">Workflow Company</div>
+          </div>
+        </div>
+        <p class="speaker-bio">Workflow Company founder; GTM ops builder for teams.</p>
+        <a class="speaker-link" href="https://www.linkedin.com/in/joerhew/" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+      <div class="speaker-card" data-animate>
+        <div class="speaker-top">
+          <img class="speaker-photo" src="../headshots/jacobheadshot.jpeg" alt="Jacob Dietle">
+          <div>
+            <div class="speaker-name">Jacob Dietle</div>
+            <div class="speaker-role">Telescope Partners</div>
+          </div>
+        </div>
+        <p class="speaker-bio">Revenue operator focused on context systems for teams.</p>
+        <a class="speaker-link" href="https://www.linkedin.com/in/jacob-dietle/" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+      <div class="speaker-card" data-animate>
+        <div class="speaker-top">
+          <img class="speaker-photo" src="../headshots/ericheadshot.jpeg" alt="Eric Nowoslawski">
+          <div>
+            <div class="speaker-name">Eric Nowoslawski</div>
+            <div class="speaker-role">Outbound PhD</div>
+          </div>
+        </div>
+        <p class="speaker-bio">Outbound PhD -- ICP, TAM, and channel playbooks.</p>
+        <a class="speaker-link" href="https://www.linkedin.com/in/outboundphd/" target="_blank" rel="noopener">LinkedIn</a>
       </div>
     </div>
   </div>
