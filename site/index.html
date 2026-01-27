@@ -155,10 +155,24 @@ nav .container {
   display: none;
 }
 
+.hero-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 80px;
+  align-items: center;
+}
+
 .hero-content {
   position: relative;
   z-index: 1;
   max-width: 780px;
+}
+
+.hero-aside {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  min-width: 220px;
 }
 
 .hero-eyebrow {
@@ -670,6 +684,7 @@ nav .container {
 }
 
 .reg-form-wrap iframe {
+  height: 1200px;
   width: 100%;
   border: 1px solid var(--accent-gray);
   border-radius: 12px;
@@ -716,9 +731,14 @@ footer .container {
   .workshop-card,
   .speakers-header,
   .compounding-inner,
-  .reg-inner {
+  .reg-inner,
+  .hero-inner {
     grid-template-columns: 1fr;
     gap: 24px;
+  }
+
+  .hero-aside {
+    justify-content: flex-start;
   }
 
   .card-num {
@@ -797,13 +817,18 @@ footer .container {
 <!-- Hero -->
 <section class="hero">
   <div class="container">
-    <div class="hero-content">
-      <div class="hero-eyebrow">3-Part Hands-On Series</div>
-      <h1>Claude Code Workshop Series for Telescope GTM Teams</h1>
-      <p class="hero-sub">A hands-on series teaching GTM teams how to build compounding AI workflows with Claude Code &mdash; from context systems to prospect lists with three of the foremost experts in the space.</p>
-      <div class="hero-actions">
-        <a href="#register" class="btn-primary">Register for the Series</a>
-        <span class="hero-meta"><strong>3 workshops</strong> &middot; 90 min each &middot; First session: <strong>Feb 11 at 12 PM ET</strong></span>
+    <div class="hero-inner">
+      <div class="hero-content">
+        <div class="hero-eyebrow">3-Part Hands-On Series</div>
+        <h1>Claude Code Workshop Series for Telescope GTM Teams</h1>
+        <p class="hero-sub">A hands-on series teaching GTM teams how to build compounding AI workflows with Claude Code &mdash; from context systems to prospect lists with three of the foremost experts in the space.</p>
+        <div class="hero-actions">
+          <a href="#register" class="btn-primary">Register for the Series</a>
+          <span class="hero-meta"><strong>3 workshops</strong> &middot; 90 min each &middot; First session: <strong>Feb 11 at 12 PM ET</strong></span>
+        </div>
+      </div>
+      <div class="hero-aside">
+        <a class="btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdtXO-BXbH4lAJbxjuFwghKkHm4J3_md12WYbK36Ig-w5--Pg/viewform?usp=dialog" target="_blank" rel="noopener">Open Registration Form</a>
       </div>
     </div>
   </div>
