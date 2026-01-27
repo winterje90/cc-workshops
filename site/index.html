@@ -641,6 +641,49 @@ nav .container {
   opacity: 0.5;
 }
 
+/* ── Registration ── */
+.registration {
+  padding: 140px 0;
+}
+
+.reg-inner {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 80px;
+  align-items: start;
+}
+
+.reg-info h2 {
+  font-family: var(--font-display);
+  font-size: clamp(28px, 3vw, 38px);
+  color: var(--text-main);
+  line-height: 1.3;
+  margin-bottom: 16px;
+}
+
+.reg-info p {
+  font-size: 15px;
+  color: var(--text-body);
+  line-height: 1.7;
+}
+
+.reg-note {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--text-body);
+}
+
+.reg-form-wrap {
+  max-width: 560px;
+}
+
+.reg-form-wrap iframe {
+  width: 100%;
+  border: 1px solid var(--accent-gray);
+  border-radius: 12px;
+  background: #fff;
+}
+
 /* ── Footer ── */
 footer {
   padding: 60px 0;
@@ -680,7 +723,8 @@ footer .container {
   .workshops-header,
   .workshop-card,
   .speakers-header,
-  .compounding-inner {
+  .compounding-inner,
+  .reg-inner {
     grid-template-columns: 1fr;
     gap: 24px;
   }
@@ -754,7 +798,7 @@ footer .container {
     <div class="nav-brand">
       <img class="nav-logo" src="https://cdn.brandfolder.io/G5P1QT08/at/qbq0s4-6va4uo-eo3k09/telescope-logo.png?width=150&height=30" alt="Telescope Partners logo">
     </div>
-    <a href="#workshops" class="nav-cta">View Workshops</a>
+    <a href="#register" class="nav-cta">Register</a>
   </div>
 </nav>
 
@@ -766,7 +810,7 @@ footer .container {
       <h1>Claude Code Workshop Series for Telescope GTM Teams</h1>
       <p class="hero-sub">A hands-on series teaching GTM teams how to build compounding AI workflows with Claude Code &mdash; from context systems to prospect lists with three of the foremost experts in the space.</p>
       <div class="hero-actions">
-        <a href="#workshops" class="btn-primary">View the Workshops</a>
+        <a href="#register" class="btn-primary">Register for the Series</a>
         <span class="hero-meta"><strong>3 workshops</strong> &middot; 90 min each &middot; First session: <strong>Feb 11 at 12 PM ET</strong></span>
       </div>
     </div>
@@ -977,6 +1021,24 @@ footer .container {
           <span class="flow-arrow">&rarr;</span>
           <div class="flow-step">Prospect Pipeline</div>
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Registration -->
+<div class="section-divider"></div>
+<section class="registration" id="register">
+  <div class="container">
+    <div class="reg-inner">
+      <div class="reg-info">
+        <div class="section-label">Register</div>
+        <h2>Save your spot</h2>
+        <p>Register once for any session. You'll receive calendar invites by email.</p>
+        <p class="reg-note">Invite emails are sent to the address you submit.</p>
+      </div>
+      <div class="reg-form-wrap">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtXO-BXbH4lAJbxjuFwghKkHm4J3_md12WYbK36Ig-w5--Pg/viewform?embedded=true" height="900" frameborder="0" marginheight="0" marginwidth="0" title="Claude Code Workshop Registration Form">Loading…</iframe>
       </div>
     </div>
   </div>
