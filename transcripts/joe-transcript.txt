@@ -1,0 +1,139 @@
+Meeting Title: Joe and James Winter Date: Jan 23 Meeting participants: Joe Rhew
+Transcript:
+Them: Hey, james.
+Me: Hey, what's going on, Joe?
+Them: Not much Friday. Can't complain about yourself.
+Me: Yeah. I'm excited for the weekend. What's on the docket for you?
+Them: Taking my older one to swimming gymnastics. There's got to be supposed to dump snow this Sunday, so we'll probably just do a bunch of stuff indoors. But, yeah, not much, really. How about yourself?
+Me: Nice. Supposed to go out on a boat tomorrow for a friend's birthday.
+Them: Wow. Nice.
+Me: Yeah. So a little bit of a different climate. It dumped rain this morning, so I guess we'll see.
+Them: Yeah.
+Me: What tomorrow is like because it said zero percent chance of rain today. And then we got, like, four inches of rain and, like, two hours.
+Them: Lives. Oh. Wow. Yeah. That's. All good.
+Me: You never really know down here.
+Them: That would be fun. Yeah. Yeah.
+Me: But, yeah, it's like the best time of the year. Here in miami just. Like 70s, like high 70s every day.
+Them: Oh, man.
+Me: Low 80s, maybe.
+Them: Oh, that's amazing.
+Me: Yeah.
+Them: Nice. Oh, man, I'm jealous. We do Celsius, but It's been, like, minus 20, which. Is probably below zero, maybe Fahrenheit, I don't know, but it's been just really cold and just really snowy, just dumping snow for probably the last, like, two, three weeks. And so we're like, get us out of here.
+Me: Yeah. God.
+Them: Yeah.
+Me: That's brutal.
+Them: Every Winter. I'm just like, I love it until Christmas because it's really Christmassy, right? It really gets you sort of in the holiday spirit. But then afterwards, I'm just like, no.
+Me: Yeah.
+Them: January, February, March are just no good. I don't know why I froze. Let me just do this. Perfect.
+Me: When did you leave Korea?
+Them: 2018.
+Me: That's when you move to Canada. Gets pretty cold. And creator during the Winter, right?
+Them: It? Yeah, yeah. Yeah. It gets pretty cold. It's really windy and really humid, so it gets pretty cold in the Winter.
+Me: Is it, like, as bad as Toronto or.
+Them: It's a different kind of cold. Like, if it's windy, it's. It almost feels colder with the wind chill. But it's not as snowy. Nowhere near as snowy as Toronto.
+Me: Yeah. Y. Eah.
+Them: Yeah.
+Me: Well, did you talk to orchestra?
+Them: Yes, I did. Thank you for that intro. I talked to them yesterday. And they mentioned, I mean. Yeah. I mean, what they were looking for was basically the productized service that I'm building. It's a lot of we don't know what we don't know. We've never done outbound. Like, a lot of experimentation. And so I told them that I'll. I'll put together an email. On like, you know what. What the structure looks like, and then send them over. Send it over today. So that's on my to do list, but, yeah, they said that. Yeah. Michael especially seemed like he had a pretty. Realistic. Expectation, understanding of, like, what this looks like, how long it might take. And so, yeah, I think. I think in terms of fit, like, they. They are good fit, but I understand that they're also talking to a few other folks, so we'll see where that lands. But, yeah, it was a good. It was a good initial call.
+Me: Cool. Okay? Sweet. Will you CC me when you send the proposal over?
+Them: Sure? Yeah.
+Me: Cool. All right, so I don't have a super clear idea in my head. But what I wanted to talk to you about was. I think I want to do this as like a four part series. Maybe, like have. Jacob do a session? Have you do a session? Maybe have Jordan Crawford do a session. Maybe someone else. I don't know. I'm just sort of like. And I don't think it needs to be all planned out. But roughly, I'm thinking someone like you comes in. Kind of talks through, like, what are you seeing? How is your use evolving of Claude code and just like, the sort of like, AI GTM stack that you're using and where it works well, where it doesn't, your philosophy, like, how that's changing. Just kind of having a fireside chat about it. Probably don't need to put a ton together. There's probably a ton we could reuse. From brennan's. Workshop, whatever that was. Then I want to make it kind of interactive where, like, ideally we could give them and this would probably be like, sales marketing leaders and CEOs and maybe rev ops people. At, like, all the send out and invite all the portcos. Ideally, maybe we give them, like, a little bit of homework ahead of time, like. I think at that point they'll probably all have VS code installed with the quadcode extension. Just to, like, keep things sort of uniform and, like, so everyone is operating out of kind of the same system. And maybe there's, like, a project file that we tell them to put together. Or copy some GitHub repo or something. And then ideally, maybe we, like, tell them, you know, bring a handful of assets that you already have existing. Bring a CRM dump, bring some transcript, bring your website and markdown. Or maybe that's something that we we crawl like live. Like whatever it might be, or like your competitors. Like, want to make it kind of interactive and hands on and just, like, do something approachable that will get people. To have something interesting after, you know, 45 minutes, and you'll sort of be there to, like, help and troubleshoot or, like, talk through different ideas or. I don't know, I'm just kind of spitballing. But I don't have budget to pay you for this. But inevitably, when we do, these things, someone walks away with a client or two.
+Them: Yeah. I think it sounds great. The only question mark that or question for you that I would have is, have you done this format before where they have homework?
+Me: I don't think I have. I'm trying to think back through all the workshops. I don't believe I've done the homework thing before.
+Them: Yeah.
+Me: And I think it's okay if not everybody does the homework. Like, I think maybe as long as, like, one person from each company does the homework and then. The two or three of them or whatever can just sort of, like, go off into a separate room. Or whatever to chat. Through it, like maybe that works. Why does your brain go there first? Just think it's unrealistic.
+Them: Yes and no. Like, if we're talking sales and marketing, CEOs. Right. Like, they're either really busy or not technically inclined. But because there's two ways to go about it, right? Like, in order to deliver. Sort of the maximum value that anyone will get is if. If they've set it up, they're. They're already in Claude code. They come prepared. That's the. The ceiling for value is the highest there, right? And the lesson or the talk can be structured as such. Right. To. To try to squeeze that out.
+Me: Yeah.
+Them: But if we don't believe that the majority will do that, right? Then we actually restructure the talk. To be like, I'm just going to walk you through my setup and I'm going to show you examples, and you have to connect the dots in terms of how this might apply. Right. But we're not sort of, you know, kind of doing okay, so who's done the work? Okay, well, let's see what you've done and you share your screen and then we'll do it, and then it just might not be as smooth. Right. And so, yeah, I think depending on sort of our expectations. I would say either we. Yeah, we decide what the likelihood is that people will do, you know, because it's a lot to ask, right? Like downloading an ide, setting up your local machine in terms of maybe git, maybe installing node, installing, like, all of these things, right. There's a lot of prep work.
+Me: Yeah.
+Them: So yeah. Like, where are they based on your read? Like, have you done any sort of just kind of casual chats with some of the people that you think might be interested in this? Like, are they curious? Are they, like, already doing it? Yeah.
+Me: I would guess that everyone is starting from very, very minimal. Probably haven't done much.
+Them: Y. Eah.
+Me: I mean, Michael at orchestry has done a decent amount.
+Them: Yes.
+Me: And he did a pretty good job of getting stuff together with it. Actually, I think he did a really good job. I don't think we need to cater to the laziest and most common denominator, necessarily. And I think in some ways, it kind of works in your favor.
+Them: Yeah.
+Me: The less people that do, because I think the ideal outcome here would be. People gain an additional level of comfort. 20%, you know, the 80th percentile gains. A little bit more comfort and a little bit better understanding. And it flicks a couple light bulbs on in their head of like, oh, like, let me go try doing this thing after this workshop. And then you know the rest of the bell curve. Is like, oh, wow, this is pretty complicated. Like, it's not for me. Maybe it was someone else on the team or. This is really valuable. And we should be doing this, but I don't have the time, resources, or know how to do it. So I'm going to reach out to Joe and have him come in and, like, help do this stuff for us. Like, that, I think, is a pretty realistic outcome.
+Them: Y.
+Me: And I think that's fine. Like, I think it's okay if there are people who are just passive. Long. It's not like everybody. And we can see things and, like, hedge against the risk of. Nobody showing up, having done it by, like, I can reach out to a few people and be like, hey. I want you to kind of show something. Can you make sure it's done? And I'm sure. I'm sure that'll be fine.
+Them: Cool. Okay.
+Me: I mean, does this generally. I'm also very open to other ideas. So if you have alternative suggestions, like, by all means. I'm not attached to this format.
+Them: Yeah. I'm trying to think. Well, my mind has shifted a little bit.
+Me: I just. I. I like the idea of, like, some. Let me just show you some cool shit and some best practices and then some, like. I just want you to try something. And, like, get over that little fear. That I don't know what I'm doing.
+Them: Yeah. No, I think it's. Good. So now I'm thinking, okay, if we're going to make it interactive, What is a Simple enough, but interesting enough and relevant enough. Use case. That would hopefully provide a bit of an aha moment for these people.
+Me: I think there's two ways we could do it. We could do one that's. Like homework. Agnostic. Where? We say, like, let's just. Ask. Quad code. US and market map of their competitors using Fire Crawl or like some, like sign up for some free trial API like Fire Crawl. Go and put together like. We'll say, like, here's sort of a starting prompt. Go and go to your five competitors. Five close competitors websites. And, like, go extract, you know, X information or something. That way they don't have to bring anything, and it's, like, fairly universally applicable. I think doing something with. I think doing something with transcripts. Is another easy one because, like, everyone should be able to get some transcripts together. Or. We could just. Give people a bunch of transcripts and walk through like, Here's how you build an outbound sequence, like, or here's how you use these transcripts to build a little bot, little agent that, like, reviews your website page by page and, like, identifies. Messaging mismatches or something, I don't know. I'm open.
+Them: Yeah.
+Me: To whatever. What are the things that people hire you outside of? Just like cold, outbound? What are people?
+Them: Yeah.
+Me: Sticking around for hiring you for. Or maybe it's something more CRM related, but I just feel like that's tougher. For a wider audience.
+Them: Yeah, exactly. I'm trying to find the common denominator. Because even with, like, let's say, Transcripts could work, especially if we don't need to connect it via API. If they just bring the raw transcripts into AS files as part of their homework.
+Me: Yeah.
+Them: Yeah. I mean. There are. I mean, this is completely. This is tangential, but. Like a lot of the clients that we work with. One. You know they don't touch cloud code, right? Like, they're not there yet either. And then two is a lot of the things that we do for them is very tailored and very bespoke because that's where the value of, you know, the work that we do comes from. And so.
+Me: Totally.
+Them: When we think about common patterns, I think some of the things that you mentioned, like competitors, everyone has them. Web research, right? And. Yeah, like transcript analysis. Could be interesting.
+Me: We could also, I mean. We could also. It's. It's riskier. But as long as maybe two or three people do it, it's fine. Could we? Could we just, like, prep a few people to walk through their own? Ideas. And you could sort of, like, talk through it, live with them. Like. So we give some people some homework. We pick on two or three people in the portfolio that we think are going to be decent at putting something together. And then you give your kind of talk on best practices, like what your practice does. Like what the referral company is. How you see stuff evolving like this, sort of just, like, the presentation side of it. Or the fireside chat. And then we have people share their screen for a little bit. And talk through an idea or something that they tried, and you could sort of, like, poke holes or riff on it with them live. And, like, be like, okay. Like, here's how I would do this thing, or have you thought about doing this thing or adding this piece in? Or. I don't know. It's definitely. It feels riskier, but. Maybe less risky than trying to get everyone to do stuff live on the call. I think if the I think if the only outcome we have.
+Them: Yeah.
+Me: Is. You share some best practices and talk about services that you offer. And a handful of people that didn't have Claude code before now have Claude code installed with, like, you know, maybe we could, maybe we do something as basic as, like, how to create a skill and like, how to update your cloud.md file or like, something that's just like, basic best practices that everyone could do live.
+Them: That's sort of where I'm leaning towards. Right. So it's like the homework is, okay, come prepared, like, install cloud code. That's it. Right. And I just do the walkthrough and then give ample time in between to be like you guys. Follow and do it but for your own website or for your own competitors, right? Really straightforward, but I think. If I do something like, I think this could be interesting, right? The the power of Claude code is. Is the compounding effect of everything that you do. Right. And so if we were to go that route, I would do something like this, where we say, okay, we're going to create a skill. That is abstracted away from your specific company. But it really just generates really good content based on scraped data from any website, right? And then maybe we'll create another skill to then synthesize the scraped data to provide a company overview, right? Once we've created the skill, let's point it at your company. Let's get back what we see. Let's use that same skill now for your main competitor. Right point in the third domain. Let's see what we get. Right. Let's save it. And then that's it, but. Probably there's a light bulb moment there where it's like, oh, wow. Like, I can create a skill, reuse it for different domains. Oh. Like, I. I see how this works in terms of, you know, basically you're building a function, and now you can just run it for different things, like something as simple as that. Right. But.
+Me: Yeah. Yeah. I think that'd be good. I think maybe in your sort of like, When I have to balance too is like if I have. Jacob, come on. And he talks about the context OS. And, like, how to use that and set it up, which I think. Will be way more. I think that one. Will be more difficult for people to grasp. But. I. I want to figure out a way for these two to kind of build on each other.
+Them: Yeah.
+Me: And I think. I think it can work. Well, because you guys don't really. Target the same use cases all that much. As far as I understand it. There's, like, some underlying same principles, but I don't think it's a bad idea for people to be exposed to just, like, the context layer multiple times until it kind of sinks in for them. I think you could also talk a lot about. You know, best practices. For using GitHub. And like, your your whole point about. How there's going to be DevOps. For go to market context essentially at some point or like how to handle that. In distributed teams.
+Them: I mean. Yeah.
+Me: We don't have to solve it. Live on this call. Maybe we just put a Google Doc together and you can kind of riff on it and catch up again.
+Them: No. Yeah, I. I think it would be help. Yeah, I think it would be helpful. To look like. I think there's. There's two divergent paths. In terms of what I could present, right. I could either present. Something that's quite sophisticated. Like we've built a whole GitHub workflow. And coordination layer around. How do we update, how do we approve these, like, pull requests and stuff like that, right? And, you know, how do we bring that into, like, Slack, right? Like a little bit. You saw a little bit of that in like, brand this webinar, right? That probably shows the people in your portfolio company of like, a little bit of FOMO maybe, or, like, what is possible? What. What does the future look like? Right? And gets them excited and maybe gets them thinking about, okay, like, maybe we should bring someone in and do this right, or we should, like, level up someone internally and do it right.
+Me: Yeah. Yeah.
+Them: Or the other. The other path is like, oh, here's like, this, like, really relevant use case that seemed daunting. But Joe walked. You know us through it. And it's fairly straightforward. It's pretty simple. And now I kind of get what the hype is about. Claude code, right? But they don't necessarily see, sort of, you know, what the future might look like, right?
+Me: Yeah.
+Them: And maybe, you know, that's. Yeah, I think. Depending on what you think your audience wants. And also, I think the fact that you're bringing other people to kind of speak to different parts of, you know, how they use cloud code and stuff like that. If I wear more of the educator hat, I'm happy to play that role, even if it means, like, I don't get to, you know, show off cool shit. Because it generally is exciting that people, you know, would be interested in this and they want to learn and stuff like that. So if you want to balance that out from, like, purely like. What do you want your coast to take away from this? I'm happy to do that as well.
+Me: I don't think it's an either or. I think you can do the education and. Show, like, very forward thinking. Like, well, shit. I think there's plenty of time for both those things. So maybe I'll just send you a Google Drive or a Google Docs. Real quick. And we can.
+Them: Disappointed that this is not a GitHub issue or GitHub repo, but it's, you know, one step at a time.
+Me: Kind of riff on it. There. I. I'm still figuring out GitHub. Man. I'm not. Not quite there yet. I feel like my file structure and foldering. And all that is starting to become a little bit of a mess. I need to, like, stop just randomly creating projects and files and, like, not knowing what's where.
+Them: Yeah. Yeah.
+Me: Okay?
+Them: Okay, cool.
+Me: Maybe we catch up, like, next week.
+Them: What's the timeline for this? Yeah, like, what are you thinking?
+Me: Let's put it. Yeah, let's put a tentative block on the calendar, maybe. For, like. The 18. February.
+Them: Looks good.
+Me: Thank you. And noon Eastern is probably the safest time.
+Them: Yeah. Yeah. Let's do that.
+Me: Okay?
+Them: By then I'll have a bunch more walkthrough videos out as well, so I can always point them to it if they want to learn more of the fundamental and foundational stuff.
+Me: Dope.
+Them: Yeah.
+Me: I'm going to block it off for an hour and a half for now. Just so we have the extra time in case, like, I think we can try to keep it to 60 minutes. And then people that want to stick around and ask questions and stuff or talk to you and get more info or whatever can do that.
+Them: Sounds good. I see it at 3:00pm Eastern. Yeah.
+Me: Oh, whoops. Sorry. I was looking at my west coast time zone.
+Them: All. Good.
+Me: There. We go. Fixed. Dope. All right, man. I'm excited.
+Them: All right, let's do it. Yeah, I'm sure we'll. We'll get something. So yeah.
+Me: Yeah. Just give me.
+Them: We'll see how it goes. And then keep me posted on what the others are covering so that I can kind of think about, you know, maybe not overlapping as much and then kind of maybe getting some inspiration in terms of, like, the. The level that they'll be presenting it as well.
+Me: Yeah. For sure. Cool.
+Them: Cool. All right.
+Me: Did you. Did you talk to Measured, by the way? Michael did a guy name.
+Them: Michael? Yeah, Michael got back to me.
+Me: D.
+Them: And he asked for some times I share my calendar and then just. Just fizzled out again.
+Me: Okay?
+Them: I'm curious. Why. Why are you? What's the. Like, I appreciate it. It seems like Michael's really busy or just because we've tried this several times. So I'm just curious what the. What you're thinking is in terms of trying to get Michael to work with us.
+Me: I thought there was an opportunity for you to help. And I know they're talking like it was a weird situation where their VP of sales was talking to some people on the side. And then Mike was asking me about stuff, and I was, like, trying to help them consolidate threads. And I think the VP of sales kind of went out and was going to, like, use this guy that he used to work with. Which I'm not super stoked about, but he seems fine. It just looked like. Agency. So I was trying to.
+Them: Serge. You say. You say a cleggy. Yeah. Yeah. Yeah.
+Me: So I was trying to, like, get them to figure it out together. And sometimes it doesn't work out.
+Them: I appreciate it. I appreciate it. I really do. Yeah. Just the sense I got between the lines was like there was something internal that was going on. Where I was. Like, I could. I could continue to follow up and kind of pester you, but at the same time, Given the intro, Like, I didn't want to be, like, a nuisance.
+Me: Yeah.
+Them: So I just wanted to get a little bit more context. But that makes sense. Do you think I should follow up with my culture just one more time, just to see?
+Me: No. I think so. Generally speaking. We do this with, like, recruiters and, like, other kind of third parties that we make intros to, like, keep us in the loop or keep me in the loop. On how conversations go because we're trying to push, like, a certain agenda with the founder. And sometimes we can help give things a nudge. So yeah.
+Them: For sure.
+Me: Like with orchestra. Michael at orchestra is great, so I'm less worried about it there. But, yeah, it's good to have the context so we can help. Kind of guide things too, on our end.
+Them: Yeah. Yeah, for sure. I'll. Yeah, I'll start seeing you on. Or at least, I don't know, bcc ing you on the. On the communication so that you know what's going on. And I appreciate, really, every intro that you make, even if it doesn't work out. I really do. So thank you.
+Me: Cool. Yeah, Sometimes it takes a few.
+Them: Of course, of course.
+Me: Where? It's. It's on their timeline, not ours, so there's only so much we can do.
+Them: Yeah. Yeah. And just any intro. I mean, even if it doesn't work out, like it's another connection that, you know, just. I get to keep sort of, you know, nurture that relationship. So I appreciate it.
+Me: Yeah. Cool. Hi, man. Have a good weekend.
+Them: All right. All right. Thanks. You, too.
+Me: See ya.
+Them: Enjoy that belt ride. Hopefully. All right.
+Me: Thanks.
+Them: Bye.

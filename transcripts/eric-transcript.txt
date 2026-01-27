@@ -1,0 +1,165 @@
+Meeting Title: Eric Nowoslawski and James Winter
+Date: Jan 23
+Meeting participants: 🦾Eric Nowoslawski
+
+Transcript:
+
+Them: Hey, james.
+
+Me: What's up, dude?
+
+Them: It's so funny. The call I had before this. We do their whole TAM analysis with Claude code. And then the call before that, I was talking with a recruiter about how I want to hire an engineer, and he's like, what are you building? And I totally nerded out about Claude code again. So I'm like, just back to back Claude code, like. Explanation calls.
+
+Me: Excellent. Love it. You're already primed.
+
+Them: Yes, and I'm sorry. I'm just off camera. Every Friday for the next three weeks or so, I take my file to. It's routine, it's nothing crazy, but I'm just driving back in the car.
+
+Me: Okay. No worries, man. I'll turn off mine as well. Well, happy Friday, man. Good to hear your voice at least. I'm sure we'll catch up on video soon.
+
+Them: Yeah, absolutely.
+
+Me: I think we can keep it pretty brief and maybe do some of this async. Where I'm at is essentially I want to get the portfolio. Exposed and thinking about different use cases. I think I'm going to do this as sort of like a three or four part series where. I have people like you. And Joe Roo and Jacob Didal. I'm like, I don't know if you know those guys. And maybe Jordan just, like, have some people come in, talk about what they're doing, where they see this going.
+
+Them: Yeah.
+
+Me: How your own workflows have evolved with it. And kind of just get people exposed to it. And then ideally, and I don't know if this will work for everyone, But I kind of want it there to be some interactive component.
+
+Them: Yes.
+
+Me: Where assuming everyone shows up with VS code. And the quadcode extension. Or maybe cursor in the quad cut extension. Show up with those installed. And set up with Node and git and a few other things. That are just sort of baseline add ons.
+
+Them: Yeah.
+
+Me: So that we could go through some example live where you show some really cool stuff that you built and talk through some of the use cases that you have internally. And then do a little bit of education as far as what this can and should look like. If you were in house, for example. And then maybe we do some easy. Super straightforward. We'll work for everyone, but, like. Okay. And now we're going to look at how to map the tam. Or. Now we're going to look at how to go scrape using pod code or an agent browser skill or something to do something universal that will work for essentially everyone.
+
+Them: Y. Es.
+
+Me: Kind of just to get people over the fear hump and seeing something more complex. But giving something more basic a try.
+
+Them: Well, and it's. It's interesting because I have actually been. In between disappointed and frustrated with how my life life is being changed by Claude Code and my team is just not. Doing anything with it, and it just, like, feels like you've discovered fire and like nobody else is sitting around the fire with you. And so I was like, all right. I feel like they're just not. They just don't know what to do with it. So they need their first example things. And so our first example workflow internally is actually to have everybody run a regression analysis on. We work in pods. So then we'll say all the. Time to you pull out every campaign. What was the copy? And make a scoring model going forward of like that we can score every single idea that we ever present to the customer ever again. So that you've, like, built this for your pod. Which obviously not everyone's going to be able to do because not everyone else is running a cold email agency. But when I talk to founders, I just did a, like, mastermind. And they were like, well, how do we use it? I was like, oh, shoot, I haven't thought about this before. Like, what's the use case that everyone can get value with? And I actually think the way that we're building lists now is the workflow that everyone can do. And so one bottleneck that we have is I'm the best list builder. On the team. I just know what to look for. I know I've just done so many iterations of these things. So I was thinking, how can we make it so that every customer we onboard gets a perfect list? It's maybe not their whole tam, but the list that we do have is rock solid. And so it made me think that I was like, oh, you know what we should do? Is we should just look at the do not contact list that they give us because that's their. Their customer list, and just say, all right. Considering this is, let's enrich it with clay data, let's enrich it with prosp data, any of the emails of the contacts that they give us, let's enrich that and let's just run an analysis to just say who are the best customers and let's take it one step further. And use either other APIs or other MCPs, whatever it is. If they have a hypothesis and say, you know, if Gipper. I'm just saying Dipper, because they're on the top of my brain. If Gipper were to say, you know what we really think that the best customers have at least 10 different types of sports teams in the school. All right, great. That's a fire crawl MCP job. You go run that, you know, well, actually, I guess you run that on your current customer set and see if that's actually true.
+
+Me: Yeah.
+
+Them: So then what we could walk through is everybody taking their customer data and enriching it for the patterns that can turn in their ICP list. And then I have a pretty sick deal with Prospio that. Prosp. I don't know how they did it. Have basically gotten, like, a second copy of the LinkedIn data set. And it's so easy to query, and they've given me so many credit that I would be totally willing to just be like, all right, everybody. You have to set your rate limit to, like, I don't know. I get 50 requests per second, so depending on how many people are there, you're going to have to set your rate limit to, like, two per second. But as we're all going to do this live, you're all going to share this API key after this call. This API key is being destroyed. Or I'll give you two hours to mess around. Whatever you want to do. Now that we've done your ICP analysis, Go get, like, a list for yourself and enrich it. And go with God, and you're on your way. So we can do, like, a full quad code TAM building exercise from customer current customer discovery. All the way to, like, some TAM building as well.
+
+Me: Yeah, I think that would be a really good one. Do you know the Prosper guys pretty well?
+
+Them: They built the product for me. Yes.
+
+Me: Okay?
+
+Them: I talk with them. I talk with them every day. Yeah.
+
+Me: Because maybe we just asked them, like, hey, would you be willing to give everyone who attends this, like, a bunch of free credits and usage?
+
+Them: Oh, yes. Oh, actually, you know what?
+
+Me: Just for the workshop.
+
+Them: That would actually even make me look really good. And that's a way better idea. Yeah, let's do that instead. Yeah, yeah, yeah.
+
+Me: Yeah. I'm sure they would be down for that.
+
+Them: Yeah, they would totally be down for that. Yes. So. Yes. And then we could use. So actually, even Clay was like, hey, Eric, like, you don't post about Clay as much anymore. I'm like, guys, It is a biblical experience. Like, and I don't know if you're religious or not, but I think the fact that.
+
+Me: Sorry I lost you. I heard you say it's a biblical experience.
+
+Them: The bible that. God.
+
+Me: And then you cut out for a little bit.
+
+Them: Oh, yes. It's a biblical experience. I think it's super important in the Bible that they say that God spoke the world into existence, and the fact that you can now speak code into existence is why I call it a biblical experience. It's just. It's just insane. So then Clay's like, well, why aren't you doing this in clay? I'm like, because I don't want to click all day for the rest of my life and just click, click, click, click, click. And so with prosp, you're getting much of the same data points.
+
+Me: Y.
+
+Them: From the LinkedIn company data and the exact same data points, if not some more on the contact data. So. And they're fully API first. The search is great. The enrich is great. It just, it just makes it so easy to just be like, this is what I want. And then we also have a process.
+
+Me: Eah.
+
+Them: First time we. We have a skill that. It's just like every time we run a prospio search, it just knows. Oh. And so we can share that with everyone, too.
+
+Me: Cool. Yeah, that'd be great. Okay, well, I think we got some good stuff. I think we're probably targeting end of February or early March just given timing.
+
+Them: Great. Totally. Do you have a day of the week that you like doing these on?
+
+Me: I feel like Wednesday tends to work best for people.
+
+Them: Great. Okay.
+
+Me: So I'll just send you, like, a hold right now. I think noon Eastern tends to be the best time.
+
+Them: I was just going to say. Yeah.
+
+Me: So I'll send you a hold for March 11th for now.
+
+Them: Totally. Perfect. I was just going to say that's so far out. Just you tell me when you think you want it to be, and we can do that.
+
+Me: Yeah, yeah. I'll let you know. I need to get people's availability, and it's always a hassle trying to get this stuff far enough out, but not too far out and heard a bunch of cats, so I'll send the invite.
+
+Them: Oh, yeah.
+
+Me: For now, and maybe we'll follow up and see if there's a better time.
+
+Them: Sure. Yeah.
+
+Me: Awesome, man.
+
+Them: One. One last insight I want to give you too, as you're helping herd these cats with some marketing. I was talking to orchestra and which a great referral. Thank you so much. If they close, I'd be excited. If they don't close, I would also be totally fine with that. They came to me and they were like, oh, we want to sync LinkedIn and email. And this is something I keep hearing over and over and over again. And I keep having this conversation. And I wanted to tell you the playbook that we're seeing work the best because I feel like people are getting too in. The weeds, and they're like, well, if we send an email, we should Follow up on LinkedIn. And that's just not the best strategy. And I just wanted to give you some. Some insight because I feel like your portfolio. Jack just asked me about this, too, and I was like, no, no, no, this isn't no, don't do it that way. So do you have time for that?
+
+Me: Yes.
+
+Them: Okay? So people are like, I want to email them. And then as we email them the second time, we reach out on LinkedIn or after they finish the sequence, we reach out to them on LinkedIn. The biggest problem with that. Is the volume that you can send on email versus the 20 messages a day that you can send on LinkedIn is just nowhere near the same. And so we're actually telling people, no, no, no, don't do that. Install every free trial of company and contact level de anonymization software that you can get your hands on our B2V snitcher, lead feeder, visual visitor. Just everybody. Because when you buy a zoom info versus an Apollo versus a clay, whatever, all of them are scraping the LinkedIn database and then they all are using some way to just like guess somebody's business email address. They're literally just trying. Does eric@gross [enginex.com](http://enginex.com/) validate as an email address?
+
+Me: Right. Totally. Y.
+
+Them: So when you're buying an email address database, you're picking whoever you think scrapes LinkedIn the best and has some good email finding.
+
+Me: Eah. Yep.
+
+Them: These company and contact data enrichment companies. They have all of these different brokers that, like, when you sign up for WI fi at the airport, what you're consenting to and why it's free is because they're getting your IP address, tying it to your personal email address, and then selling that data.
+
+Me: Yeah. Like five. Like five by five, Data.
+
+Them: Yes. Yes. And so then RB2B is buying those things. And the reason we tell people to install all of them is because it's not the same where, like, Everybody's just scraping LinkedIn and everybody's just guessing email addresses. It's like if they. If this one guy has different data brokers, than the other guy. You're going to see huge changes in accuracy on coverage and all those other things. So install everything.
+
+Me: Yeah.
+
+Them: Throw it into play is probably the easiest right now. So you could just receive the webhook. Score them to see if you actually want to reach out to them. Reach out to those people on LinkedIn. Do not say, hey, I saw you were on the website. Just say, send the regular message that you would send as if you were to reach out to them if you want to be fancy, because they were probably on your website. Spend 50 cents on Manis calls, making a super awesome research report for them if you want. But that's. Now we're getting fancy. If you have extra capacity and you're not reaching out to the website people, then we always suggest to people. Use and I'll send you this Rapid API. Use these LinkedIn scrapers to find the people who are engaging with the company and the people LinkedIn posts of your case study customers so that when they post and your ICP is the founder of a wholesaling company with 50 employees. When a founder of a wholesaling company with fifty employees likes one of your case studies posts, you can then reach out and be like I work with Telescope and that they know exactly who that is because they engage with the post. Don't say that you saw them liking the post, just do the name drop. And then third use up the rest of your capacity of scraping the people who are engaging with your competitors content and fit your icp and then whatever capacity you have after that, do like a super score of these are the real legit people that I want to reach out to, et cetera, et cetera. I'm seeing too much in the market right now that it's becoming really, really easy to orchestrate email and LinkedIn together. And I think that then means people are like, all right, so we're going to tie email and LinkedIn as a similar workflow in the channel, and it's like, no, no, no. You only get so many shots in goal. The reply rates are so much higher on LinkedIn. Use them on your absolute best lead list.
+
+Me: Y. Eah.
+
+Them: I just talked to Jack about that, and I just told the orchestra. I was like, all right, I'm just going to tell James to just make sure that he can tell the rest of the portfolio, because it just makes no sense. I understand why they want to do it, but you just shouldn't do it that. Way.
+
+Me: Yeah. I mean, what did Orchestra say? I think they were telling me that, like. Well, they. They've had good success doing some prospecting on LinkedIn. And because they exclusively delivered Office365, it's a way to hedge against better spam filtering.
+
+Them: Yes, I think I heard you there, but yes.
+
+Me: I was saying, I think orchestra's whole thing was like. Because they sell to Office365 exclusively. And they've had success with LinkedIn prospecting already. They want to, like, make sure to tie that in.
+
+Them: Yes. Yes, yes, yes. Yep. Okay. That's what I thought you said. Exactly. And I even told them that. I was like, look, you might want to just keep going on LinkedIn and just, just keep hammering on that. And don't even hire us for these things, because on email, I mean, they're going to be targeting Outlook accounts and Outlook is a little bit tough to deliver to. They have aged domains that they said if we were to do this, we already have age domains, which I'm finding that the age of the doing is the most important part for getting into outlook right now.
+
+Me: Y. Ep.
+
+Them: But, yeah, it was very much a consulting call. I did not hard sell them at all. I was just trying to get them in the right spot.
+
+Me: Okay, well, I'll follow up and see what direction they're waiting.
+
+Them: No, no, totally fine. Yeah. Great.
+
+Me: Cool, man. Well, let's follow up Async, and maybe I'll just send you a Google Doc real quick that we can kind of start riffing.
+
+Them: All right. Awesome.
+
+Me: On, like, agenda and flow and everything, and we can follow back up in a couple weeks.
+
+Them: Yes. Very nice. Perfect. All right, well, I'll talk to you soon. Have a great weekend.
+
+Me: Cool. All right. Thanks, buddy. Congrats again on the kid.
+
+Them: All right. Thank you so much.
+
+Me: All right.
+
+Them: Bye.
+
+Me: See ya.

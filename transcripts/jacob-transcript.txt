@@ -1,0 +1,190 @@
+Transcript:
+Meeting Title: Jacob Dietle and James Winter Date: Jan 20 Meeting participants: Jacob
+Transcript:
+Them: How's it going?
+Me: What's up, dude? How was your weekend?
+Them: Good. How was your new year?
+Me: It was low key, went to a friend's house. And in the backyard.
+Them: Take it easy.
+Me: Unseasonably cold in Miami, so It was like 55 or something.
+Them: It is unseasonably cold from Amy.
+Me: Cold the last few days. This weekend. Friday, it was like in the 50s all day. Even, like in the 40s a little bit.
+Them: I would prefer to be. Cold enough to snow, or in the 60s and 70s, The in between. I just. I don't. Not for me. It's a waste.
+Me: Yeah, I just fucking hate the cold weather. I'm so over it after dealing with it for enough of my life.
+Them: We need to move to Miami.
+Me: I moved here. Two and a half years ago.
+Them: And you? Were you in new york before?
+Me: I was in colorado and san diego.
+Them: No. Okay? So you got the cold in Colorado.
+Me: San diego's chill.
+Them: Yeah.
+Me: Yeah, but I grew up in Colorado.
+Them: Okay, nice. Do you like? San diego, miami. Do you have a preference between the two? I'm curious, like.
+Me: They're very different. San Diego's really chill. It's very laid back. It's very spread out. You kind of have to drive.
+Them: Yeah. Yeah.
+Me: Like, 20 minutes to get anywhere. I might have felt differently if I lived closer to the beach.
+Them: Y.
+Me: But I was kind of near downtown in Little Italy. And it's not a good city. So everything you want to do, you kind of have to drive to, which is fine. I didn't hate it. My fiance. My fiance grew up in Manhattan.
+Them: Eah. What do you mean? Okay?
+Me: So Cindy was super far. It's very slow and sleepy. And she just never found her. Yeah, she had never really found her people there.
+Them: O. H. Yeah, it's the exact opposite. Yeah.
+Me: Miami's cool. Though. Interesting stuff going on. We don't really go out, so I haven't been any of the clubs.
+Them: The stereotype. Yeah.
+Me: Yeah, Art Bazel and the shit that people mostly come here for. I just like taking the dogs to the beach. And hanging out with friends and playing golf and stuff, and. Pretty boring these days.
+Them: That's a good life. Yeah, I think. I think it's underrated to be in a city and not be in the main industry of that city.
+Me: Yeah.
+Them: I wouldn't want to live in New York if I work in finance. That sounds terrible. Sounds awful. I see on my French market finance.
+Me: Where do you live again? Chits band. That's right, yeah.
+Them: So, like, aboveies village. Yeah, yeah.
+Me: Next to movie theater.
+Them: Yep. We're on there. Yeah. Do you know? You know the area? Yeah.
+Me: Yeah. Been in the movie theater a few times. We lived. In Sunnyside last summer for. Like, three months.
+Them: Where's that?
+Me: Sunnyside is like two stops past Long Island City on the 7.
+Them: Oh. Nice. I do like that.
+Me: It's chill. A bunch of my fiance's high school friends all moved out there. I grew up there.
+Them: Makes sense.
+Me: So she had, like, a bunch of friends in the neighborhood. And relatively easy to find Airbnb for a few months.
+Them: Yeah, I have a lot.
+Me: Although it's crazy.
+Them: Of. Oh, go ahead.
+Me: So we stayed in this one bedroom apartment. I think it was like 3200amonth. Which is, like, a pretty good deal.
+Them: Yeah.
+Me: And for a short term. And then we looked at it again the next summer, and it was like, seven grand.
+Them: I was going to say five, but seven is great. Yeah.
+Me: Something crazy, and I don't even know if she ever rented it for that much, but it was not nice enough to be renting for that much. Fucking Middle Queens.
+Them: For that more at price point. Yeah. It's. It's always a fun battle, finding housing in New York City.
+Me: Yeah.
+Them: It never ceases to piss me off in all the new ways.
+Me: Maybe Daniel will do some good there. We'll see.
+Them: Yeah, we'll see if they build more housing. I'll be happy. I'll be happy.
+Me: Optimistic. It was so funny meeting all these people, seeing these people. Like, I'm going to move out of the city now. I'm like, this isn't going to affect you at all, and you're a fucking idiot.
+Them: They're not. You're. You're not. Yeah. You're not you already. The person says that already spends half their time in gr. Anyways, I'm like, this doesn't matter to you? Like.
+Me: Yeah. It's such an easy way for me to just immediately not pay any more attention to anything that person has to say.
+Them: Okay? You're serious. Not a serious person. Cool. Done like.
+Me: Yeah.
+Them: That is.
+Me: So I don't have a firm idea of what this could be.
+Them: Let me minimize this.
+Me: But I think a lot of people in the portfolio don't know where to start. Don't know what to do. And so I think you and Jo kind of come at things from very different angles. And maybe I'll leave Jordan into this, too. I'm just spitballing here. I'm almost thinking, like, should this be almost like an anthology series of quad code or Vibe coding for different use cases? And just.
+Them: I hate the serious framing.
+Me: To give people exposure to like, okay, here's a bunch of smart people who are all doing interesting things, but totally different things.
+Them: Yeah.
+Me: Maybe you won't use all of these, but you should see what people are doing. And maybe that either helps you figure out what you should be doing, or you hire some of them to help build a context OS or build more automated workflows into your ops stack. Like whatever it is.
+Them: Y. Eah. Jordan is pvps for codcode or any number of combinations. Yeah.
+Me: Yeah. Exactly. I don't know. Anything come to mind if I said all right, Jacob. Next week we're going to do this workshop. You've got 24 hours to come up with content. Where does your mind go?
+Them: I think it's the stuff I've been talking about. For a while of like, hey, this is, this is the core value prop of centralized all your working docs, transcripts, even intercom tickets. What I'm doing now turn that into like this knowledge base. And then you can always work from that to AI always has the context, it eliminates the context. Switching it eliminates explainers over and over again. And becomes as compounding intelligence asset so that.
+Me: Yeah. But I guess my question is more like, how would you make that an interesting workshop?
+Them: It depends on. It really depends on the average skill level. Who's there? If people have started using cloud code already, then it's like a very different conversation. Versus, like, the abstract. Like, hey, this is why you should care. If that can.
+Me: I would assume essentially zero knowledge.
+Them: Yeah. So then it's going to be. It'll probably be like, hey, this is why you should care. Here are the vet. Here are the three use cases that will grab your attention. And then this is why a little bit how it works, and then maybe. I could show the case study I did with Pixie, because I have that, like, all pre recorded.
+Me: That's when you sent me, right?
+Them: And. Yeah, exactly. You get a chance to watch that.
+Me: Yeah.
+Them: Yeah. That. The reason I say that is because it's really hard to get why matters to you. With, like, a start system. When it's just, like, blank. And it's like, abstract. Looks like a toy. But the problem is. So I'll go ahead.
+Me: So going off this idea, I'm wondering. As you're talking, I'm like, okay. What if we got everyone to do a little bit of setup work ahead of time? So if we sent instructions. Install Claude, code node, python, like whatever frameworks we need. Ring 15 call transcripts from your last sales calls? Or what if we gave them some pre work to do ahead of time, had them do all the setup? And then you kind of walk through a live example. And then everyone would have five minutes to go do something with their new contact os.
+Them: Jumping with it. Yeah.
+Me: And then we go around, pick a couple of people to show what did you do or where did your mind go for a use case. I'm just riffing here.
+Them: Yeah. No, that would be. I mean, that would be useful and interesting to me as well, because, like I said, I'm always trying to understand how people are using it. Like one use case that is new that I didn't match people using it for onboarding. They're onboarding new hires.
+Me: Yeah.
+Them: Through the system. It's like, oh, yeah, well, it is your company brain. Basically, just have the person go talk to the company brain, like, get up to speed on ICPs and everything in between.
+Me: Yeah.
+Them: So that'd be interesting.
+Me: I heard. I heard, like a similar. I don't remember if it was Boris like the Claude Good Guy or. The guy that came up with Ralph Wiggum loops. But one of them was describing how. Every time. They run something, they go and update. I guess just their quad MD file or something.
+Them: Yeah. It persists, the changes to, like I call them context packages. That's what my work. I call them my workflow.
+Me: What do you call them? Context. What?
+Them: Context package.
+Me: Package.
+Them: Like a package. Yeah.
+Me: Yeah, onboarding would be good. How long? Remember? Did you have instructions? I feel like you sent me something that.
+Them: The. The Quick Start guide I put out has everything in there. It also has a. The thing I found is that you can't use cloud code to set a prog code. So it has a prompt you give to chat GPT or something and it walks you through it.
+Me: Interesting.
+Them: So that's this thing.
+Me: That was this post.
+Them: I'm sending you the the GitHub link. Yep, exactly. Yeah, yeah, yeah. So we do the workshop. Did. Also the Q and A of like, hey, this is where it fails. This is where it's really good. This limitations. And the tlr the two lined in read of that is it's very effective. That it gets harder to maintain them. You add to it. It's not like one second person is twice, is two times as hard. It's like multiples. Because you're basically setting yourself up for DevOps context ops. So that was one of the things I found with my clients, like, oh, where this is like if DevOps is a full time job, like I fully expect, especially with cloud releasing or anthropic releasing co work, you see that.
+Me: Yeah.
+Them: Fully expect people to be building out these company brains, these knowledge bases. And then pushing them to basically the rest of the team that you interact with it with co work effectively.
+Me: Yeah. Yeah, you need some arbiter of, like, what gets to live in there and how.
+Them: Exactly. You need the benevolent dictator who, like, makes sure the thing doesn't fall apart and is so useful for something like doesn't have to worry about help. The system works.
+Me: Yeah. Let me just pull up the Google Doc real quick. And. Do it down. Market. It doesn't become. More. Like. A series to ace. All right, so we could do, like, intro. Well, pre work. Ing. About? Looking down. What else do you think would be good for people to bring, like, 15 transcripts?
+Them: Yeah. Export them. Before because that's always a pain. They'll usually put them out as, like, a CSV or separate files. It's really download the. The quick start git clog code set up. Input the transcripts. In that same folder.
+Me: Are they going to have to set up GitHub?
+Them: That's like. Yeah, that's what that's like to one, to, like, pull it down effectively and also to, like, save their work.
+Me: Yeah.
+Them: That's also one of the things. Like it's not intuitive because everything has autosave nowadays. But like, when you get. You have to think about the versioning. The nice thing is you just use the agent, use cloud code to do it for you.
+Me: Y. Eah. Totally.
+Them: But it's still like a muscle you have to build.
+Me: Do you use Terminal or VS code or something else?
+Them: Though I use VS code or a cursor, basically with the cloud code inside of it.
+Me: Yeah.
+Them: That's another thing. Like all. All a, like cursor or VS code or anything is just. It's just a way to display your files. And you could use like. I've seen people use Obsidian and Cobco. It's the same concept of, like, you need something to shutter files and then some of the agent, so they the the UIs for you and the agent's like doing its own thing.
+Me: What? Ever. Yeah, I just. I just wasn't sure. Is there actually any functional difference between using VS code or some other IDE versus terminal itself?
+Them: Not really, though. I think of them as like different layers of a cake. Like, one thing does one thing and the other one is, like, where the actual actioning is happening. So, like, I know people that use clog code just in the terminal, and I think that's a mistake because you can't see what it's doing.
+Me: Okay, so that was my question. So, yeah, when I say using VS code, I mean using quad code within vs.
+Them: Yeah, yeah, exactly.
+Me: Interesting. Okay. I've been using terminal, so that's what I was asking. I have. Yes, I have vs code installed.
+Them: There's also.
+Me: And with Claude installed in it, but I don't know. I just haven't been using it for that.
+Them: Yeah, I think. I think it's just broadly, and this is something I've had to learn myself, is we've gotten used to apps doing everything for us. Like, if you're seeing how like, there's like discourse around, like, Gen Z doesn't know how to file system works, I think that's like, absolutely true. Because that just does everything for you. You don't see that actual file system behind it.
+Me: Right.
+Them: This is that topic. Just, like, made. Present or I got. Like, this is the actual problem now.
+Me: Yeah, Interesting. Okay, that's a good point. All right, so we'll say. Go through your instructions. Bring 15 exported transcripts. Set up vs code set up GitHub. Anything else that we would need for pre work.
+Them: It's really just everything. The Quick Start guide. It has them. And as people download cursor. It's the same difference of like VS code or cursor. Doesn't actually matter. You can either one. And if people want. A little prettier version. They'll want the cloud code extension. For vs code or cursor.
+Me: There's, like, node js2. Is that in here?
+Them: It's if you look at. The Go up to the. So something should say prompt in there. Yeah. Setup guide. Right under. Right above the readme. Yeah. Now it's back at the top. Yeah.
+Me: Do you just have, like, scripts in here?
+Them: It tells the agent how to, like, guide the user, basically.
+Me: Copy.
+Them: And then, yeah.
+Me: All right. So setup is 15 transcript is going to be enough.
+Them: I think it's a good number.
+Me: Okay?
+Them: You don't get the same value from, like, batch processing in 100. About 100 takes time.
+Me: Yeah.
+Them: It takes time we don't have. And to do it live, it might actually be, like, five just to, like, make it click.
+Me: And then we'll say J code intro. It's been like, five minutes on your background, how you think things are evolving. We'll do something interactive. Maybe you show it. Maybe you show an example, like you build something real quick or create some output real quick with. Something that you already have set up.
+Them: Yeah. I can try and think of one for myself. Using my own system.
+Me: Maybe it's just like a blog post or blog post, an email and like some website copy or something.
+Them: Yeah.
+Me: And then. Okay, so we want to get people to try this. So give people. 10 minutes to create an output. Raise hands if they get stuck. There's probably, like, a decent amount of best practices. Like, do we want to talk about skills? Or. Additional. Sort of like. Beyond the basic. Like ralph wiggum loops or. Maybe that's a little bit too, too far.
+Them: That's two advancer Must of go I would think. I would say this is how I think the most empowering concept will be. It's all file system and it's all system in the file. But the agent just takes that and can actually work with it. In a way that's greater than the sum of its parts. It's like a scale is just a markdown file that makes the agent know how you wanted to write your. Know your copywriting best practices. Or. An MCP server is just think of it as a way to get context into the actual current session. Yeah, but I found, like, Removing the like. Mystery around. It's a terminal, and it's therefore more scary. It's like, this is a file system that you, like, learned when you were 10, you know, like.
+Me: Yeah. So maybe you can.
+Them: I'll think more on that. Yeah.
+Me: Y. Eah. I think getting we have to strike the right balancing, like showing people what's possible, giving some background education on it, but not overwhelming them.
+Them: I agree.
+Me: Because really we want them to just, like, go try and have enough knowledge to set things up in a way to where trying stuff has a higher probability of being decent enough that they want to keep trying shit. I would say that's the goal.
+Them: Yeah. Nothing like, beyond the basics. Nothing I will, like, say, will be as impactful as the magic scene. The transcripts turned into, like, an ICP document. It's good even by 10, you know?
+Me: Yeah. Yeah. Should we do maybe I mean, our transcripts the wrong input. Should we do a CRM export or.
+Them: I think transcripts are the best input because they are the oftentimes yeast least utilized. They're all trapped in these like note takers all the time. And they actually have a lot more because they're so long. There's a ton of context clues in them.
+Me: Yeah.
+Them: So it shows the system's ability to infer from something, which is like a big. I think it's one of the reasons it's so good and most people don't talk about it. It's like, my bad.
+Me: Cool. All right, well, I think this is a good starting point. I will. I'm going to do a little more thing about how I think this should work. Because I think the series idea is kind of nice. What are. The maybe, and you can. You can just flesh out. Like, I think we need to make this concrete for people. Like, you have all this stuff set up. These are the things that will allow you to do faster, better, easier. Like I would. It might be interesting for you to think about, like. Here are a bunch of different use cases. If I scored them in terms of, like, how good and efficient it is to use this system to do this thing, it's a 10. To do this thing, it's a 2, because this isn't the right tool for that job or something.
+Them: Yeah. Yeah, like that. Framing. Top is definitely content and product marketing. Then. Then I'll think of that Joe Spectrum at the bottom out of the box. You can tool it to do. Do it well out of the box. It's not very good at like, large data set manipulation. Because you know, you can get the right python. It's just then you have to understand, like. How do I get to, like, use pandas and, like, all the actual, like, database stuff in there? The good rule of thumb is the more you have to switch between, like, stuff in the AI context window in, like, a data set. Like a CSV or an Excel, or even like a Databases are better, but anything you have to the more time you have to switch between those two like units of work, the harder that task is for it to do.
+Me: Yeah. I mean, hypothetically. This might be. This might be overcome. I was going to say we could probably get people load a bunch of transcripts into Snowflake. But I don't think it's worth it.
+Them: It's better to add Mrs. Md files.
+Me: Okay?
+Them: Because it's just it. The agent's going to read that full thing. And then be able to work with that versus having to go Snowflake, Ohio to Snowflake, work.
+Me: Call. It.
+Them: Oh, here's a transcript.
+Me: Okay?
+Them: Like that.
+Me: All right. Cool. You want to put something on the calendar for, like, next week to catch back up on this?
+Them: Yeah, let's do that. What are you thinking?
+Me: But actually. Yeah. Let's think about when we want to do it first, actually. I want to give people time. I also want to wait too long. Maybe like the four. So. Too soon?
+Them: But Today is the 20th. The 4th would be good. The 4th or the 5th?
+Me: I have my bachelor party. The fifth and sixth. So can't do that.
+Them: Oh, yeah. Okay, so. There you go. What are you doing for your bachelor party?
+Me: Should we shoot for the fourth?
+Them: Yeah, to the fourth.
+Me: We're just going to palm strings.
+Them: Nice.
+Me: Most of. My side of the wedding. It's way too many people. I have 20 people go in the bachelor party. And most of them are all on the west coast, and our wedding is down here in Florida. So, like, I wanted to do something that was, like, extremely easy for all of my side of the wedding to get to because it's already going to be such a pain for him to get to the wedding.
+Them: Everyone to get to. Yeah. Yeah, that makes sense. I'm going to my friend's bachelor party. And he has 30 people, and we're going to New Orleans. So I think I'm worried.
+Me: Oh, shit. 30. That's insane. I've never even heard of that before.
+Them: Yeah, I. I was like, okay, Joe, like, whatever you want. I'll be. I'll come.
+Me: Norman's a good time. Though.
+Them: And know that's a lot of fun. Yeah.
+Me: All right, cool. I'll send out a block real quick, and then let's catch up next week again.
+Them: I like it. Sweet. Yeah, let's do that.
+Me: All. Right. Cool. I got hopped Another one. Good to see you, man. Appreciate it.
+Them: Yep. Talk to you later. See you.
