@@ -523,132 +523,6 @@ nav .container {
   max-width: 520px;
 }
 
-.form-row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 16px;
-  margin-bottom: 16px;
-}
-
-.form-group {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.form-group.full {
-  grid-column: 1 / -1;
-}
-
-.form-group label {
-  font-size: 12px;
-  font-weight: 500;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-
-.form-group input {
-  padding: 14px 16px;
-  background: var(--navy-light);
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 8px;
-  color: var(--white);
-  font-family: var(--font-body);
-  font-size: 15px;
-  transition: border-color 0.3s, box-shadow 0.3s;
-  outline: none;
-}
-
-.form-group input::placeholder {
-  color: var(--slate);
-}
-
-.form-group input:focus {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-glow);
-}
-
-.form-group input.error {
-  border-color: #e74c5e;
-  box-shadow: 0 0 0 3px rgba(231, 76, 94, 0.15);
-}
-
-.form-error {
-  font-size: 12px;
-  color: #e74c5e;
-  min-height: 18px;
-  margin-top: 2px;
-}
-
-.btn-submit {
-  width: 100%;
-  margin-top: 8px;
-  padding: 16px 36px;
-  background: var(--accent);
-  color: var(--navy);
-  font-family: var(--font-body);
-  font-size: 15px;
-  font-weight: 600;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: all 0.3s;
-  letter-spacing: 0.01em;
-}
-
-.btn-submit:hover {
-  background: #4de0c5;
-  transform: translateY(-2px);
-  box-shadow: 0 8px 30px rgba(62, 207, 180, 0.3);
-}
-
-.btn-submit:disabled {
-  opacity: 0.6;
-  cursor: not-allowed;
-  transform: none;
-  box-shadow: none;
-}
-
-.success-message {
-  display: none;
-  text-align: center;
-  padding: 60px 32px;
-  background: var(--navy-light);
-  border: 1px solid rgba(62, 207, 180, 0.15);
-  border-radius: 12px;
-}
-
-.success-message.show {
-  display: block;
-  animation: fadeUp 0.6s forwards;
-}
-
-.success-icon {
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  background: var(--accent-glow);
-  border: 2px solid var(--accent);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0 auto 24px;
-  font-size: 24px;
-  color: var(--accent);
-}
-
-.success-message h3 {
-  font-family: var(--font-display);
-  font-size: 26px;
-  color: var(--white);
-  margin-bottom: 12px;
-}
-
-.success-message p {
-  font-size: 15px;
-  color: var(--muted);
-}
 
 /* ── Footer ── */
 footer {
@@ -728,10 +602,6 @@ footer .container {
   .overview-stats {
     grid-template-columns: 1fr;
     gap: 16px;
-  }
-
-  .form-row {
-    grid-template-columns: 1fr;
   }
 
   .nav-cta { display: none; }
@@ -910,46 +780,8 @@ footer .container {
         <p>Register once for all three workshops. You'll receive calendar invites and prep materials by email.</p>
       </div>
       <div class="reg-form-wrap">
-        <form id="regForm" novalidate>
-          <div class="form-row">
-            <div class="form-group">
-              <label for="firstName">First Name</label>
-              <input type="text" id="firstName" name="firstName" placeholder="Jane" required>
-              <div class="form-error" id="firstNameError"></div>
-            </div>
-            <div class="form-group">
-              <label for="lastName">Last Name</label>
-              <input type="text" id="lastName" name="lastName" placeholder="Smith" required>
-              <div class="form-error" id="lastNameError"></div>
-            </div>
-          </div>
-          <div class="form-row">
-            <div class="form-group full">
-              <label for="email">Email</label>
-              <input type="email" id="email" name="email" placeholder="jane@company.com" required>
-              <div class="form-error" id="emailError"></div>
-            </div>
-          </div>
-          <div class="form-row">
-            <div class="form-group">
-              <label for="company">Company Name</label>
-              <input type="text" id="company" name="company" placeholder="Acme Inc." required>
-              <div class="form-error" id="companyError"></div>
-            </div>
-            <div class="form-group">
-              <label for="role">Role / Title</label>
-              <input type="text" id="role" name="role" placeholder="Head of Sales" required>
-              <div class="form-error" id="roleError"></div>
-            </div>
-          </div>
-          <button type="submit" class="btn-submit" id="submitBtn">Register for the Series</button>
-        </form>
-        <div class="success-message" id="successMsg">
-          <div class="success-icon">&#10003;</div>
-          <h3>You're registered!</h3>
-          <p>Check your email for prep materials. Add the workshop series to your calendar below.</p>
-          <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=REDACTED&tmsrc=REDACTED" target="_blank" rel="noopener" class="btn-primary" style="margin-top: 24px; display: inline-block;">Add to Google Calendar</a>
-        </div>
+        <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=REDACTED&tmsrc=REDACTED" target="_blank" rel="noopener" class="btn-primary" style="margin-bottom: 28px; display: inline-block;">Add to Google Calendar</a>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtXO-BXbH4lAJbxjuFwghKkHm4J3_md12WYbK36Ig-w5--Pg/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" style="border-radius: 12px; background: #fff;">Loading…</iframe>
       </div>
     </div>
   </div>
@@ -985,89 +817,6 @@ const observer = new IntersectionObserver((entries) => {
 
 animateEls.forEach(el => observer.observe(el));
 
-// ── Form handling ──
-const form = document.getElementById('regForm');
-const submitBtn = document.getElementById('submitBtn');
-const successMsg = document.getElementById('successMsg');
-
-const fields = [
-  { id: 'firstName', label: 'First name' },
-  { id: 'lastName', label: 'Last name' },
-  { id: 'email', label: 'Email' },
-  { id: 'company', label: 'Company name' },
-  { id: 'role', label: 'Role' }
-];
-
-function validateEmail(email) {
-  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-}
-
-function clearErrors() {
-  fields.forEach(f => {
-    document.getElementById(f.id).classList.remove('error');
-    document.getElementById(f.id + 'Error').textContent = '';
-  });
-}
-
-function showError(id, msg) {
-  document.getElementById(id).classList.add('error');
-  document.getElementById(id + 'Error').textContent = msg;
-}
-
-// Clear individual field errors on input
-fields.forEach(f => {
-  document.getElementById(f.id).addEventListener('input', () => {
-    document.getElementById(f.id).classList.remove('error');
-    document.getElementById(f.id + 'Error').textContent = '';
-  });
-});
-
-form.addEventListener('submit', async (e) => {
-  e.preventDefault();
-  clearErrors();
-
-  let valid = true;
-
-  fields.forEach(f => {
-    const val = document.getElementById(f.id).value.trim();
-    if (!val) {
-      showError(f.id, f.label + ' is required');
-      valid = false;
-    }
-  });
-
-  const emailVal = document.getElementById('email').value.trim();
-  if (emailVal && !validateEmail(emailVal)) {
-    showError('email', 'Please enter a valid email');
-    valid = false;
-  }
-
-  if (!valid) return;
-
-  submitBtn.disabled = true;
-  submitBtn.textContent = 'Registering...';
-
-  const data = {};
-  fields.forEach(f => {
-    data[f.id] = document.getElementById(f.id).value.trim();
-  });
-
-  try {
-    await fetch('https://script.google.com/macros/s/AKfycbwjBQx2zTiG8meLSHBrv3ITcQ1hwsLCYAVGs9vXJGXHEPXHYmGibRDZg5lH1m24AIM2Bw/exec', {
-      method: 'POST',
-      mode: 'no-cors',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(data)
-    });
-
-    form.style.display = 'none';
-    successMsg.classList.add('show');
-  } catch (err) {
-    // Still show success since no-cors won't give us a readable response
-    form.style.display = 'none';
-    successMsg.classList.add('show');
-  }
-});
 </script>
 
 </body>
