@@ -947,7 +947,8 @@ footer .container {
         <div class="success-message" id="successMsg">
           <div class="success-icon">&#10003;</div>
           <h3>You're registered!</h3>
-          <p>Check your email for calendar invites and prep materials for the workshop series.</p>
+          <p>Check your email for prep materials. Add the workshop series to your calendar below.</p>
+          <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=REDACTED&tmsrc=REDACTED" target="_blank" rel="noopener" class="btn-primary" style="margin-top: 24px; display: inline-block;">Add to Google Calendar</a>
         </div>
       </div>
     </div>
@@ -958,7 +959,7 @@ footer .container {
 <footer>
   <div class="container">
     <div class="footer-brand">Hosted by <strong>Telescope Partners</strong></div>
-    <div class="footer-note">&copy; 2025 Telescope Partners. All rights reserved.</div>
+    <div class="footer-note">&copy; 2026 Telescope Partners. All rights reserved.</div>
   </div>
 </footer>
 
@@ -1052,7 +1053,7 @@ form.addEventListener('submit', async (e) => {
   });
 
   try {
-    await fetch('https://script.google.com/macros/s/PLACEHOLDER/exec', {
+    await fetch('AKfycbwjBQx2zTiG8meLSHBrv3ITcQ1hwsLCYAVGs9vXJGXHEPXHYmGibRDZg5lH1m24AIM2Bw', {
       method: 'POST',
       mode: 'no-cors',
       headers: { 'Content-Type': 'application/json' },
