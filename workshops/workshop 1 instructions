@@ -1,0 +1,35 @@
+Hi everyone,
+Quick reminders ahead of next week’s workshop. We’re meeting Wednesday, February 11 at 12:00pm ET. If you don't have this on your calendar please let me know. 
+
+I would highly recommend your marketing and ops teams to join this call but it will be relevant for most GTM folks. At the very minimum, your marketing leader, content, demand gen, and PMM should be there. 
+
+This session is designed to solve a problem most of us have felt: you try to use AI (custom GPTs, copying context in, etc.), and either you hit limits, you keep repeating yourself, or every chat feels like starting over.
+
+What we’ll cover instead is how to build a durable, flexible, always-up-to-date “Context OS” that captures what you know about your business, customers, market, and product—so when you ask AI to do something, it can reliably pull the right context from across all those sources.
+
+If you’re in GTM (especially product marketing), this is the core skill: taking lots of disparate inputs and using them to produce relevant outputs (decks, one-pagers, messaging, blogs, web copy). For CEOs, it’s a way to operationalize all the thinking you’ve already done so your team can reason about the market and product the way you do.
+
+To get the most out of the workshop, please do this prep in advance:
+1) Install the basics
+
+Download and install VS Code
+
+Set up a Claude Pro subscription or higher
+
+2) Set up your Context OS (30–60 minutes)
+
+GitHub quickstart: https://github.com/jacob-dietle/gtm-context-os-quickstart
+
+Setup walkthrough video: https://www.youtube.com/watch?v=acI1zRtpgEc
+
+3) Bring materials to feed your Context OS
+
+15–20 sales call transcripts (or call notes if you don’t have transcripts). These can just be in a CSV 
+
+Your sales deck, messaging docs, and website copy. Basically any helpful context that tells an AI agent what you are, who you sell to, what you do etc...
+
+Tip: Drop these into Claude / ChatGPT / Gemini and ask it to produce a single markdown file that consolidates the key info (positioning, ICP, use cases, objections, proof points, competitive notes, etc.)
+
+If you do the prep, you’ll get a lot more out of the hands-on portion.
+
+See you next Wednesday,
